@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Atsumoto Ohashi"
+title                    : "Atsumoto Ohashi / 大橋厚元"
 title_separator          : "-"
 name                     : &name "Atsumoto Ohashi"
 description              : &description "Master student at Nagoya University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Atsumoto Ohashi"
+  name             : "Atsumoto Ohashi / 大橋厚元"
   avatar           : "myphoto.jpg"
   bio              : "Master student at Nagoya University"
   location         : "Nagoya, Japan"
