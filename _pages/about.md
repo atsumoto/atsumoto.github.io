@@ -20,6 +20,7 @@ Education
 Publications
 ======
 (\* indicates equal contribution)
+
 **International Conferences (Refereed)**
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://arxiv.org/abs/2209.07873)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,"** The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022 [[Paper](https://arxiv.org/abs/2207.12185)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [<font color="#dd0000">Oral</font>] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
