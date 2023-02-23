@@ -20,8 +20,8 @@ Education
 Publications
 ======
 **International Conferences (Refereed)**
-- <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://arxiv.org/abs/2209.07873)] [[Code](https://github.com/nu-dialogue/antor)]
-- <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,"** The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022 [[Paper](https://arxiv.org/abs/2207.12185)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [<font color="#dd0000">Oral</font>]
+- <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://arxiv.org/abs/2209.07873)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
+- <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,"** The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022 [[Paper](https://arxiv.org/abs/2207.12185)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [<font color="#dd0000">Oral</font>] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
 - Ao Guo, <u>Atsumoto Ohashi</u>, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori and Ryuichiro Higashinaka. **"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system,"** The 3rd Workshop on Natural Language Processing for Conversational AI (ConvAI), 2021 [[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)] [<font color="#dd0000">Oral</font>]
 
 **Non-refereed**
