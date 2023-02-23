@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student at a graduate school of informatics, Nagoya University. I am a member of [Higashinaka group](https://www.ds.is.i.nagoya-u.ac.jp/) and supervised by Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
+I am currently a master's student at a graduate school of informatics, Nagoya University. I am a member of [Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/) and supervised by Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
 
 Education
 ======
