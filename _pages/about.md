@@ -35,7 +35,8 @@ Publications
 
 Honors and Awards
 ======
-- Sponsor Award, The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
+- Young Researcher Encouragement Award, The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
+- Sponsorship Award, The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
 - Committee Special Award, The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
 - Outstanding Academic Achievement, Department of Computer Science, Nagoya University, 2018
 - Chinese Speech Contest 4th prize, Nanjing University Cup, 2017
