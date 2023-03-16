@@ -27,7 +27,7 @@ Publications
 - Ao Guo, <u>Atsumoto Ohashi</u>, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori and Ryuichiro Higashinaka. **"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system,"** The 3rd Workshop on Natural Language Processing for Conversational AI (ConvAI), 2021 [[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)] [<font color="#dd0000">Oral</font>]
 
 **Non-refereed**
-- <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. **"JMultiWOZ: 日本語タスク指向型対話データセットの構築,"** 言語処理学会 第28回年次大会 (NLP), 2023 [To appear]
+- <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. **"JMultiWOZ: 日本語タスク指向型対話データセットの構築,"** 言語処理学会 第29回年次大会 (NLP), 2023 [[Paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q12-1.pdf)] [<font color="#dd0000">若手奨励賞</font>]
 - Ryu Hirai\*, <u>Atsumoto Ohashi</u>\*, Ao Guo, Hideki Shiroma, Xulin Zhou, Yukihiko Tone, Shinya Iizuka, Ryuichiro Higashinaka. **"Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue,"** Dialogue Robot Competition 2022 [[Paper](https://arxiv.org/abs/2210.09518)]
 - 平井龍, <u>大橋厚元</u>, 郭傲, 東中竜一郎. **"タスク指向型対話システムにおけるチュートリアルを用いた発話理解の改善,"** 2022年度 人工知能学会全国大会 (JSAI), 2022 [[Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2022/0/JSAI2022_2F4GS903/_article/-char/ja/)]
 - <u>大橋厚元</u>, 東中竜一郎. **"後処理ネットワークを用いた強化学習によるタスク指向型対話システムの最適化,"** 言語処理学会 第28回年次大会 (NLP), 2022 [[Paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B3-2.pdf)] [<font color="#dd0000">スポンサー賞（サイバーエージェント賞）, 委員特別賞</font>]
