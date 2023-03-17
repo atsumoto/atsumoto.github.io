@@ -41,6 +41,10 @@ Honors and Awards
 - Outstanding Academic Achievement, Department of Computer Science, Nagoya University, 2018
 - Chinese Speech Contest 4th prize, Nanjing University Cup, 2017
 
+Invited Talks
+======
+- 国際会議参加報告 SIGDIAL2022/YRRSDS2022, 第96回 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 「第13回対話システムシンポジウム」, 2022 [[Slide](https://jsai-slud.github.io/sig-slud/material/96th/Conference-Report-SIGDIAL-2022.pdf)]
+
 Experience
 ======
 - June 2022 - August 2022<br>
