@@ -8,18 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student at a graduate school of informatics, Nagoya University. I am a member of [Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/) and supervised by Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
+I am currently a PhD student at the graduate school of informatics, Nagoya University. I am a member of [Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/) and supervised by Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
 
 Education
 ======
-- April 2021 - present<br>
-  **Master student of Intelligent Systems, Nagoya University**
+- April 2023 - Present<br>
+  **Phd student in Informatics**<br>
+  Graduate School of Informatics, Nagoya University
+
+- April 2021 - March 2023<br>
+  **Master of Informatics**<br>
+  Graduate School of Informatics, Nagoya University
+
 - April 2017 - March 2021<br>
-  **Bachelor of Computer Science, Nagoya University**
+  **Bachelor of Informatics**<br>
+  School of Informatics, Nagoya University
 
 Publications
 ======
-(\* indicates equal contribution)
+(\* Equal contribution)
 
 **International Conferences (Refereed)**
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://arxiv.org/abs/2209.07873)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
