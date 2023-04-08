@@ -13,7 +13,7 @@ I am currently a PhD student at the graduate school of informatics, Nagoya Unive
 Education
 ======
 - April 2023 - Present<br>
-  **Phd student in Informatics**<br>
+  **Ph.D. student in Informatics**<br>
   Graduate School of Informatics, Nagoya University
 
 - April 2021 - March 2023<br>
