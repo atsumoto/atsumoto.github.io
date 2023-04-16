@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Atsumoto Ohashi / 大橋厚元"
 title_separator          : "-"
 name                     : &name "Atsumoto Ohashi"
-description              : &description "Master student at Nagoya University"
+description              : &description "PhD student at Nagoya University"
 url                      : https://ohashi56225.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ohashi56225.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Atsumoto Ohashi / 大橋厚元"
   avatar           : "myphoto.jpg"
-  bio              : "Master student at Nagoya University"
+  bio              : "PhD student at Nagoya University"
   location         : "Nagoya, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
