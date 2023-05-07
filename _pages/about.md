@@ -12,15 +12,15 @@ I am currently a PhD student at the graduate school of informatics, Nagoya Unive
 
 Education
 ======
-- April 2023 - Present<br>
+- April 2023 – Present<br>
   **Ph.D. student in Informatics**<br>
   Graduate School of Informatics, Nagoya University
 
-- April 2021 - March 2023<br>
+- April 2021 – March 2023<br>
   **Master of Informatics**<br>
   Graduate School of Informatics, Nagoya University
 
-- April 2017 - March 2021<br>
+- April 2017 – March 2021<br>
   **Bachelor of Informatics**<br>
   School of Informatics, Nagoya University
 
@@ -52,7 +52,17 @@ Invited Talks
 ======
 - 国際会議参加報告 SIGDIAL2022/YRRSDS2022, 第96回 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 「第13回対話システムシンポジウム」, 2022 [[Slide](https://jsai-slud.github.io/sig-slud/material/96th/Conference-Report-SIGDIAL-2022.pdf)]
 
+Scholarships and Grants
+======
+- Nagoya University Interdisciplinary Frontier Fellowship [[Link](https://dec.nagoya-u.ac.jp/fellowship_information)]<br>
+  April 2023 – March 2026<br>
+  - Research scholarship: 180,000 yen / month
+  - Research Expenses: 250,000 yen / year
+
 Experience
 ======
-- June 2022 - August 2022<br>
-  Teaching Assistant (Intelligent Interface), 
+- Teaching Assistant for Intelligent Interface 2, Nagoya University<br>
+  June 2022 – August 2022
+  
+- Short-term Study Abroad at Nanjing University, China<br>
+  February 2018 – March 2018
