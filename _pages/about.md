@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the graduate school of informatics, Nagoya University. I am a member of [Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/) and supervised by Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
+I'm currently a PhD student at Nagoya University. I'm working within [the Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/), under the guidance of Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
 
 Education
 ======
@@ -29,6 +29,7 @@ Publications
 (\* Equal contribution)
 
 **International Conferences (Refereed)**
+- Ao Guo, <u>Atsumoto Ohashi</u>, Yuya Chiba, Yuiko Tsunomori, Ryu Hirai and Ryuichiro Higashinaka. **"Personality-aware Natural Language Generation for Task-oriented Dialogue using Reinforcement Learning,"** The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 [To appear]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://arxiv.org/abs/2209.07873)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,"** The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022 [[Paper](https://arxiv.org/abs/2207.12185)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [<font color="#dd0000">Oral</font>] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
 - Ao Guo, <u>Atsumoto Ohashi</u>, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori and Ryuichiro Higashinaka. **"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system,"** The 3rd Workshop on Natural Language Processing for Conversational AI (ConvAI), 2021 [[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)] [<font color="#dd0000">Oral</font>]
@@ -42,11 +43,11 @@ Publications
 
 Honors and Awards
 ======
-- Young Researcher Encouragement Award, The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
-- Sponsorship Award, The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
-- Committee Special Award, The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
-- Outstanding Academic Achievement, Department of Computer Science, Nagoya University, 2018
-- Chinese Speech Contest 4th prize, Nanjing University Cup, 2017
+- Young Researcher Encouragement Award (18/406)<br>The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
+- Sponsorship Award (5/386)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
+- Committee Special Award (16/365)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
+- Outstanding Academic Achievement<br>Department of Computer Science, Nagoya University, 2018
+- Chinese Speech Contest 4th prize<br>Nanjing University Cup, 2017
 
 Invited Talks
 ======
