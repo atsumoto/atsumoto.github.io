@@ -52,6 +52,7 @@ Honors and Awards
 
 Invited Talks
 ======
+- 国際会議参加報告 EMNLP 2023, 第99回 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 「第14回対話システムシンポジウム」, 2023 [[Slide](https://speakerdeck.com/atsumoto/di-14hui-dui-hua-sisutemusinpoziumu-emnlp-2023-can-jia-bao-gao)]
 - 国際会議参加報告 SIGDIAL2022/YRRSDS2022, 第96回 人工知能学会 言語・音声理解と対話処理研究会 (SLUD) 「第13回対話システムシンポジウム」, 2022 [[Slide](https://jsai-slud.github.io/sig-slud/material/96th/Conference-Report-SIGDIAL-2022.pdf)]
 
 Scholarships and Grants
