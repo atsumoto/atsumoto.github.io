@@ -65,7 +65,7 @@ Scholarships and Grants
 Experience
 ======
 - Research Intern at CyberAgent, Inc.<br>
-  August 2022 – September 2022
+  August 2023 – September 2023
 
 - Teaching Assistant for Intelligent Interface 2, Nagoya University<br>
   June 2022 – August 2022
