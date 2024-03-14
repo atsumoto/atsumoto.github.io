@@ -26,14 +26,15 @@ Education
   **Bachelor of Informatics**<br>
   School of Informatics, Nagoya University
 
-Publications
+Selected Publications
 ======
 (\* Equal contribution)
 
 **International Conferences (Refereed)**
+- <u>Atsumoto Ohashi</u>\*, Ukyo Honda\*, Tetsuro Morimura and Yuu Jinnai. "On the True Distribution Approximation of Minimum Bayes-Risk Decoding," The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024 [To appear]
 - <u>Atsumoto Ohashi</u>\*, Ryu Hirai\*, Shinya Iizuka, Ryuichiro Higashinaka. **"JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset,"** The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), 2024 [To appear]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks,"** The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023 [[Paper](https://aclanthology.org/2023.emnlp-main.231/)] [[Code](https://github.com/nu-dialogue/GenPPN)]
-- Shinya Iizuka\*, Shota Mochizuki\*, <u>Atsumoto Ohashi</u>, Sanae Yamashita, Ao Guo and Ryuichiro Higashinaka. **"Clarifying the Dialogue-Level Performance of GPT-3.5 and GPT-4 in Task-Oriented and Non-Task-Oriented Dialogue Systems,"** In AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI), 2023 [[Paper](https://ai-hri.github.io/2023/papers/FSS-23_paper_632_cr.pdf)]
+- Shinya Iizuka\*, Shota Mochizuki\*, <u>Atsumoto Ohashi</u>, Sanae Yamashita, Ao Guo and Ryuichiro Higashinaka. 
 - Ao Guo, <u>Atsumoto Ohashi</u>, Yuya Chiba, Yuiko Tsunomori, Ryu Hirai and Ryuichiro Higashinaka. **"Personality-aware Natural Language Generation for Task-oriented Dialogue using Reinforcement Learning,"** The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), 2023 [[Paper](https://ieeexplore.ieee.org/abstract/document/10309654)]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning,"** The 29th International Conference on Computational Linguistics (COLING), 2022 [[Paper](https://aclanthology.org/2022.coling-1.19/)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning,"** The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL), 2022 [[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [<font color="#dd0000">Oral</font>] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
