@@ -115,6 +115,10 @@ Invited Talks
 
 Scholarships and Grants
 ======
+- JSPS Research Fellowship for Young Scientists (DC2) [[Link](https://www.jsps.go.jp/j-pd/pd_sin.html)]<br>
+  April 2025 – March 2027<br>
+  - Research scholarship: 200,000 yen / month
+  - Research Expenses: 800,000 yen / year
 - Nagoya University Interdisciplinary Frontier Fellowship [[Link](https://dec.nagoya-u.ac.jp/fellowship_information)]<br>
   April 2023 – March 2026<br>
   - Research scholarship: 180,000 yen / month
