@@ -31,6 +31,11 @@ Selected Publications
 (\* Equal contribution)
 
 **International Conferences (Refereed)**
+- <u>Atsumoto Ohashi</u>, Ryuichiro Higashinaka. <br>
+**Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems** <br>
+The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) <br>
+[To appear]
+
 - <u>Atsumoto Ohashi</u>, Ukyo Honda, Tetsuro Morimura and Yuu Jinnai. <br>
 **"On the True Distribution Approximation of Minimum Bayes-Risk Decoding"** <br>
 The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**) <br>
