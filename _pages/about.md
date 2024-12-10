@@ -32,7 +32,7 @@ Selected Publications
 
 **International Conferences (Refereed)**
 - <u>Atsumoto Ohashi</u>, Ryuichiro Higashinaka. <br>
-**Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems** <br>
+**"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems"** <br>
 The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) <br>
 [To appear]
 
