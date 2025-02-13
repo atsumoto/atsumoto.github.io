@@ -11,9 +11,9 @@ title                    : "Atsumoto Ohashi / 大橋厚元"
 title_separator          : "-"
 name                     : &name "Atsumoto Ohashi"
 description              : &description "PhD student at Nagoya University"
-url                      : https://ohashi56225.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://atsumoto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ohashi56225.github.io"
+repository               : "atsumoto.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ohashi56225"
+  github           : "atsumoto"
   google_plus      :
   keybase          :
   instagram        :
