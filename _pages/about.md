@@ -31,17 +31,17 @@ Selected Publications
 (\* Equal contribution)
 
 **International Conferences (Refereed)**
-- <u>Atsumoto Ohashi</u>, Ryuichiro Higashinaka. <br>
+- <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
 **"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems"** <br>
 The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) <br>
 [[Paper](https://arxiv.org/abs/2502.00747)] [[Code](https://github.com/nu-dialogue/UniPPN)]
 
-- <u>Atsumoto Ohashi</u>, Ukyo Honda, Tetsuro Morimura and Yuu Jinnai. <br>
+- <u>Atsumoto Ohashi</u>, Ukyo Honda, Tetsuro Morimura, and Yuu Jinnai. <br>
 **"On the True Distribution Approximation of Minimum Bayes-Risk Decoding"** <br>
 The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**) <br>
 [[Paper](https://arxiv.org/abs/2404.00752)] [[Code](https://github.com/CyberAgentAILab/mbr-anomaly)]
 
-- <u>Atsumoto Ohashi</u>\*, Ryu Hirai\*, Shinya Iizuka, Ryuichiro Higashinaka. <br>
+- <u>Atsumoto Ohashi</u>\*, Ryu Hirai\*, Shinya Iizuka, and Ryuichiro Higashinaka. <br>
 **"JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset"** <br>
 The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) <br>
 [[Paper](https://arxiv.org/abs/2403.17319)] [[Code](https://github.com/nu-dialogue/jmultiwoz)]
@@ -50,11 +50,6 @@ The 2024 Joint International Conference on Computational Linguistics, Language R
 **"Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks"** <br>
 The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**) <br>
 [[Paper](https://aclanthology.org/2023.emnlp-main.231/)] [[Code](https://github.com/nu-dialogue/GenPPN)]
-
-- Ao Guo, <u>Atsumoto Ohashi</u>, Yuya Chiba, Yuiko Tsunomori, Ryu Hirai and Ryuichiro Higashinaka. <br>
-**"Personality-aware Natural Language Generation for Task-oriented Dialogue using Reinforcement Learning"** <br>
-The 32nd IEEE International Conference on Robot and Human Interactive Communication (**RO-MAN 2023**) <br>
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10309654)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
 **"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning"** <br>
@@ -65,11 +60,6 @@ The 29th International Conference on Computational Linguistics (**COLING 2022**)
 **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning"** <br>
 The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL 2022**) <br>
 [[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
-
-- Ao Guo, <u>Atsumoto Ohashi</u>, Ryu Hirai, Yuya Chiba, Yuiko Tsunomori and Ryuichiro Higashinaka. <br>
-**"Influence of user personality on dialogue task performance: A case study using a rule-based dialogue system"** <br>
-The 3rd Workshop on Natural Language Processing for Conversational AI (**NLP4ConvAI 2021**) <br>
-[[Paper](https://aclanthology.org/2021.nlp4convai-1.25/)]
 
 **Non-refereed**
 - <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
