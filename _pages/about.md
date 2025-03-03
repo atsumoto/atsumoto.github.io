@@ -62,10 +62,10 @@ The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue 
 [[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
 
 **Non-refereed**
-- <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
-**"JMultiWOZに対する対話状態アノテーションの付与と対話システムの実装評価"** <br>
-言語処理学会 第30回年次大会 (NLP2024) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-5.pdf)]
+- <u>大橋厚元</u>, 飯塚慎也, 姜菁菁, 東中竜一郎. <br>
+**"日本語Full-duplex音声対話システムの試作"** <br>
+言語処理学会 第31回年次大会 (NLP2025) <br>
+[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf)]
 
 - <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
 **"JMultiWOZ: 日本語タスク指向型対話データセットの構築"** <br>
@@ -114,6 +114,7 @@ Scholarships and Grants
   April 2025 – March 2027<br>
   - Research scholarship: 200,000 yen / month
   - Research Expenses: 800,000 yen / year
+
 - Nagoya University Interdisciplinary Frontier Fellowship [[Link](https://dec.nagoya-u.ac.jp/fellowship_information)]<br>
   April 2023 – March 2026<br>
   - Research scholarship: 180,000 yen / month
@@ -123,6 +124,7 @@ Experience
 ======
 - Workshop Organizer for YRRSDS 2024<br>
   June 2024 – September 2024
+
 - Research Intern at CyberAgent, Inc.<br>
   August 2023 – September 2023
 
