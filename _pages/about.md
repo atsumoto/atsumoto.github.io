@@ -67,6 +67,11 @@ The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue 
 言語処理学会 第31回年次大会 (NLP2025) <br>
 [[Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf)] [<font color="#dd0000">委員特別賞</font>]
 
+- <u>大橋厚元</u>, 東中竜一郎. <br>
+**"生成的後処理ネットワークによるタスク指向型対話システムの最適化"** <br>
+言語処理学会 第30回年次大会 (NLP2024) <br>
+[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B9-2.pdf)]
+
 - <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
 **"JMultiWOZ: 日本語タスク指向型対話データセットの構築"** <br>
 言語処理学会 第29回年次大会 (NLP2023) <br>
