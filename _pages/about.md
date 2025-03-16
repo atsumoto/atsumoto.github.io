@@ -65,7 +65,7 @@ The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue 
 - <u>大橋厚元</u>, 飯塚慎也, 姜菁菁, 東中竜一郎. <br>
 **"日本語Full-duplex音声対話システムの試作"** <br>
 言語処理学会 第31回年次大会 (NLP2025) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf)]
+[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf)] [<font color="#dd0000">委員特別賞</font>]
 
 - <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
 **"JMultiWOZ: 日本語タスク指向型対話データセットの構築"** <br>
@@ -88,6 +88,7 @@ The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue 
 
 Honors and Awards
 ======
+- Committee Special Award (32/726)<br>The 31st Annual Meeting of the Association of Natural Language Processing (NLP), 2025
 - Young Researcher Encouragement Award (18/406)<br>The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
 - Sponsorship Award (5/386)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
 - Committee Special Award (16/365)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
