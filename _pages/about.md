@@ -31,6 +31,11 @@ Selected Publications
 (\* Equal contribution)
 
 **International Conferences (Refereed)**
+- <u>Atsumoto Ohashi</u>, Shinya Iizuka, Jingjing Jiang, and Ryuichiro Higashinaka. <br>
+**"Towards a Japanese Full-duplex Spoken Dialogue System"** <br>
+The 26th Interspeech Conference (**INTERSPEECH 2025**)<br>
+[To appear]
+
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
 **"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems"** <br>
 The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) <br>
