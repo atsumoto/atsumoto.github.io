@@ -34,7 +34,7 @@ Selected Publications
 - <u>Atsumoto Ohashi</u>, Shinya Iizuka, Jingjing Jiang, and Ryuichiro Higashinaka. <br>
 **"Towards a Japanese Full-duplex Spoken Dialogue System"** <br>
 The 26th Interspeech Conference (**INTERSPEECH 2025**)<br>
-[To appear]
+[[Paper](https://arxiv.org/abs/2506.02979)] [[Website](https://nu-dialogue.github.io/j-moshi?lang=en)] [[Code](https://github.com/nu-dialogue/moshi-finetune)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
 **"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems"** <br>
@@ -133,6 +133,9 @@ Scholarships and Grants
 
 Experience
 ======
+- Research Assistant at National Institute of Informatics (NII)<br>
+  June 2025 – Present
+
 - Workshop Organizer for YRRSDS 2024<br>
   June 2024 – September 2024
 
