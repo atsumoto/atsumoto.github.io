@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a PhD student at Nagoya University. I'm working within [the Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/), under the guidance of Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
 
-My CV can be found [here (PDF)](CV-ohashi-20241210.pdf).
+My CV can be found [here (PDF)](CV-ohashi-20250923.pdf).
 
 Education
 ======
@@ -133,8 +133,11 @@ Scholarships and Grants
 
 Experience
 ======
+- Research Intern at Kyutai<br>
+  September 2025 – Present
+
 - Research Assistant at National Institute of Informatics (NII)<br>
-  June 2025 – Present
+  June 2025 – September 2025
 
 - Workshop Organizer for YRRSDS 2024<br>
   June 2024 – September 2024
