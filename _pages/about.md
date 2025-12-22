@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD student at Nagoya University. I'm working within [the Dialogue System Research Group](https://www.ds.is.i.nagoya-u.ac.jp/), under the guidance of Prof. [Ryuichiro Higashinaka](https://scholar.google.com/citations?user=ycBiJn8AAAAJ). My research interests lie in task-oriented dialogue systems, reinforcement learning, and natural language processing.
+I am Atsumoto Ohashi, a Ph.D. candidate in Informatics at Nagoya University, with a primary research focus on dialogue systems. My work has centered on optimizing task-oriented dialogue systems through the integration of NLP and reinforcement learning (RL) techniques. Recently, my research interests have expanded to spoken language models and full-duplex spoken dialogue systems for real-time and more natural conversational experiences.
 
-My CV can be found [here (PDF)](CV-ohashi-20250923.pdf).
+My CV can be found [here (PDF)](CV-atsumoto-20251222.pdf).
 
 Education
 ======
@@ -25,6 +25,22 @@ Education
 - April 2017 – March 2021<br>
   **Bachelor of Informatics**<br>
   School of Informatics, Nagoya University
+
+Research Experience
+======
+- September 2025 – Present<br>
+  **Kyutai**, Paris, France<br>
+  Visiting PhD Student
+
+- June 2025 – September 2025<br>
+  **National Institute of Informatics (NII)**, Remote<br>
+  Research Assistant<br>
+  Project: Development of spoken dialogue models at LLM-jp project
+
+- August 2023 – September 2023<br>
+  **CyberAgent, Inc.**, Tokyo, Japan<br>
+  Research Intern<br>
+  Project: Analyzing minimum bayes risk (MBR) decoding for neural machine translation models
 
 Selected Publications
 ======
@@ -66,44 +82,20 @@ The 29th International Conference on Computational Linguistics (**COLING 2022**)
 The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL 2022**) <br>
 [[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
 
-**Non-refereed**
-- <u>大橋厚元</u>, 飯塚慎也, 姜菁菁, 東中竜一郎. <br>
-**"日本語Full-duplex音声対話システムの試作"** <br>
-言語処理学会 第31回年次大会 (NLP2025) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/D8-6.pdf)] [<font color="#dd0000">委員特別賞</font>]
-
-- <u>大橋厚元</u>, 東中竜一郎. <br>
-**"生成的後処理ネットワークによるタスク指向型対話システムの最適化"** <br>
-言語処理学会 第30回年次大会 (NLP2024) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B9-2.pdf)]
-
-- <u>大橋厚元</u>\*, 平井龍\*, 飯塚慎也, 東中竜一郎. <br>
-**"JMultiWOZ: 日本語タスク指向型対話データセットの構築"** <br>
-言語処理学会 第29回年次大会 (NLP2023) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q12-1.pdf)] [<font color="#dd0000">若手奨励賞</font>]
-
-- Ryu Hirai\*, <u>Atsumoto Ohashi</u>\*, Ao Guo, Hideki Shiroma, Xulin Zhou, Yukihiko Tone, Shinya Iizuka, Ryuichiro Higashinaka. <br>
-**"Team Flow at DRC2022: Pipeline System for Travel Destination Recommendation Task in Spoken Dialogue"** Dialogue Robot Competition 2022 (DRC 2022) <br>
-[[Paper](https://arxiv.org/abs/2210.09518)]
-
-- <u>大橋厚元</u>, 東中竜一郎. <br>
-**"後処理ネットワークを用いた強化学習によるタスク指向型対話システムの最適化"** <br>
-言語処理学会 第28回年次大会 (NLP2022) <br>
-[[Paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/B3-2.pdf)] [<font color="#dd0000">スポンサー賞（サイバーエージェント賞）, 委員特別賞</font>]
-
-- <u>大橋厚元</u>, 東中竜一郎. <br>
-**"強化学習を用いたモジュール連動に基づくタスク指向型対話システムの検討"** <br>
-2021年度 人工知能学会全国大会 (JSAI 2021) <br>
-[[Paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2021/0/JSAI2021_4E1OS11a02/_pdf)]
-
 Honors and Awards
 ======
-- Committee Special Award (32/726)<br>The 31st Annual Meeting of the Association of Natural Language Processing (NLP), 2025
-- Young Researcher Encouragement Award (18/406)<br>The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
-- Sponsorship Award (5/386)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
-- Committee Special Award (16/365)<br>The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
-- Outstanding Academic Achievement<br>Department of Computer Science, Nagoya University, 2018
-- Chinese Speech Contest 4th prize<br>Nanjing University Cup, 2017
+- Committee Special Award (32/726)<br>
+  The 31st Annual Meeting of the Association of Natural Language Processing (NLP), 2025
+- Young Researcher Encouragement Award (18/406)<br>
+  The 29th Annual Meeting of the Association of Natural Language Processing (NLP), 2023
+- Sponsorship Award (5/386)<br>
+  The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
+- Committee Special Award (16/365)<br>
+  The 28th Annual Meeting of the Association of Natural Language Processing (NLP), 2022
+- Outstanding Academic Achievement<br>
+  Department of Computer Science, Nagoya University, 2018
+- Chinese Speech Contest 4th prize<br>
+  Nanjing University Cup, 2017
 
 Invited Talks
 ======
@@ -133,17 +125,8 @@ Scholarships and Grants
 
 Experience
 ======
-- Research Intern at Kyutai<br>
-  September 2025 – Present
-
-- Research Assistant at National Institute of Informatics (NII)<br>
-  June 2025 – September 2025
-
 - Workshop Organizer for YRRSDS 2024<br>
   June 2024 – September 2024
-
-- Research Intern at CyberAgent, Inc.<br>
-  August 2023 – September 2023
 
 - Teaching Assistant for Intelligent Interface 2, Nagoya University<br>
   June 2022 – August 2022
