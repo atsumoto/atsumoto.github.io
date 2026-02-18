@@ -10,7 +10,7 @@ redirect_from:
 
 I am Atsumoto Ohashi, a Ph.D. candidate in Informatics at Nagoya University, with a primary research focus on dialogue systems. My work has centered on optimizing task-oriented dialogue systems through the integration of NLP and reinforcement learning (RL) techniques. Recently, my research interests have expanded to spoken language models and full-duplex spoken dialogue systems for real-time and more natural conversational experiences.
 
-My CV can be found [here (PDF)](CV-atsumoto-20251222.pdf).
+My CV can be found [here (PDF)](CV-atsumoto-20260218.pdf).
 
 Education
 ======
