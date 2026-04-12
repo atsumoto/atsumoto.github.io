@@ -8,27 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Atsumoto Ohashi, a Ph.D. candidate in Informatics at Nagoya University, with a primary research focus on dialogue systems. My work has centered on optimizing task-oriented dialogue systems through the integration of NLP and reinforcement learning (RL) techniques. Recently, my research interests have expanded to spoken language models and full-duplex spoken dialogue systems for real-time and more natural conversational experiences.
+I am Atsumoto Ohashi, a Postdoctoral Researcher at Kyutai, specializing in spoken dialogue systems. My current research focuses on developing full-duplex spoken language models for natural, real-time conversational experiences. During my Ph.D. at Nagoya University (2026), I explored the optimization of task-oriented dialogue systems using NLP and reinforcement learning (RL) techniques, with publications at top-tier conferences including EMNLP, NAACL, AAAI, and INTERSPEECH.
 
-My CV can be found [here (PDF)](CV-atsumoto-20260218.pdf).
-
-Education
-======
-- April 2023 – Present<br>
-  **Ph.D. student in Informatics**<br>
-  Graduate School of Informatics, Nagoya University
-
-- April 2021 – March 2023<br>
-  **Master of Informatics**<br>
-  Graduate School of Informatics, Nagoya University
-
-- April 2017 – March 2021<br>
-  **Bachelor of Informatics**<br>
-  School of Informatics, Nagoya University
+My CV can be found [here (PDF)](CV-atsumoto-20260412.pdf).
 
 Research Experience
 ======
-- September 2025 – Present<br>
+- April 2026 – Present<br>
+  **Kyutai**, Paris, France<br>
+  Postdoctoral Researcher
+
+- September 2025 – March 2026<br>
   **Kyutai**, Paris, France<br>
   Visiting PhD Student
 
@@ -81,6 +71,21 @@ The 29th International Conference on Computational Linguistics (**COLING 2022**)
 **"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning"** <br>
 The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL 2022**) <br>
 [[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
+
+
+Education
+======
+- April 2023 – March 2026<br>
+  **Ph.D. student in Informatics**<br>
+  Graduate School of Informatics, Nagoya University
+
+- April 2021 – March 2023<br>
+  **Master of Informatics**<br>
+  Graduate School of Informatics, Nagoya University
+
+- April 2017 – March 2021<br>
+  **Bachelor of Informatics**<br>
+  School of Informatics, Nagoya University
 
 Honors and Awards
 ======
