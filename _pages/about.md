@@ -36,6 +36,11 @@ Selected Publications
 ======
 (\* Equal contribution)
 
+**Preprints**
+- <u>Atsumoto Ohashi</u>, Neil Zeghidour, Alexandre Défossez, and Eugene Kharitonov<br>
+**Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models**<br>
+[[Paper](https://arxiv.org/abs/2606.11167)] [[Models](https://huggingface.co/collections/kyutai/interactivity-alignment)] [[Blogpost & Demo](https://kyutai.org/blog/2026-06-10-interactivity)]
+
 **International Conferences (Refereed)**
 - <u>Atsumoto Ohashi</u>, Shinya Iizuka, Jingjing Jiang, and Ryuichiro Higashinaka. <br>
 **"Towards a Japanese Full-duplex Spoken Dialogue System"** <br>
