@@ -38,7 +38,7 @@ Selected Publications
 
 **Preprints**
 - <u>Atsumoto Ohashi</u>, Neil Zeghidour, Alexandre Défossez, and Eugene Kharitonov<br>
-**Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models**<br>
+**"Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"**<br>
 [[Paper](https://arxiv.org/abs/2606.11167)] [[Models](https://huggingface.co/collections/kyutai/interactivity-alignment)] [[Blogpost & Demo](https://kyutai.org/blog/2026-06-10-interactivity)]
 
 **International Conferences (Refereed)**
