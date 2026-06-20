@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Atsumoto Ohashi / 大橋厚元"
+title                    : "Atsumoto Ohashi"
 title_separator          : "-"
 name                     : &name "Atsumoto Ohashi"
-description              : &description "PhD student at Nagoya University"
+description              : &description "Postdoc at Kyutai"
 url                      : https://atsumoto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "atsumoto.github.io"
@@ -23,13 +23,13 @@ repository               : "atsumoto.github.io"
 author:
   # Biographic information
   avatar           : "myphoto.jpg"
-  name             : "Atsumoto Ohashi / 大橋厚元"
+  name             : "Atsumoto Ohashi"
   pronouns         : # example: "she/her"
-  bio              : "PhD student at Nagoya University"
-  location         : "Nagoya, Japan"
+  bio              : "Postdoc at Kyutai"
+  location         : "Paris, France"
   employer         :
   uri              : # URL
-  email            : "ohashi.atsumoto.c0@s.mail.nagoya-u.ac.jp"
+  email            : "atsumoto.ohashi@kyutai.org"
 
   # Academic websites
   academia         : # URL
