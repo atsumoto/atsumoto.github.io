@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Atsumoto Ohashi, a Postdoctoral Researcher at Kyutai, specializing in spoken dialogue systems. My current research focuses on developing full-duplex spoken language models for natural, real-time conversational experiences. During my Ph.D. at Nagoya University (2026), I explored the optimization of task-oriented dialogue systems using NLP and reinforcement learning (RL) techniques, with publications at top-tier conferences including EMNLP, NAACL, AAAI, and INTERSPEECH.
+I am Atsumoto Ohashi, a Postdoctoral Researcher at Kyutai, specializing in spoken dialogue systems. My current research focuses on developing full-duplex spoken language models for natural, real-time conversational experiences. During my Ph.D. at Nagoya University (2026), I explored the optimization of task-oriented dialogue systems using NLP and reinforcement learning (RL) techniques.
 
 My CV can be found [here (PDF)](CV-atsumoto-20260412.pdf).
 
-Research Experience
+Work Experience
 ======
 - April 2026 – Present<br>
   **Kyutai**, Paris, France<br>
@@ -133,7 +133,7 @@ Scholarships and Grants
   - Research scholarship: 180,000 yen / month
   - Research Expenses: 250,000 yen / year
 
-Experience
+Other Experience
 ======
 - Workshop Organizer for YRRSDS 2024<br>
   June 2024 – September 2024
