@@ -36,12 +36,14 @@ Selected Publications
 ======
 (\* Equal contribution)
 
-**Preprints**
-- <u>Atsumoto Ohashi</u>, Neil Zeghidour, Alexandre Défossez, and Eugene Kharitonov<br>
+<!-- **Preprints** -->
+**International Conferences (Refereed)**
+
+- <u>Atsumoto Ohashi</u>, Neil Zeghidour, Alexandre Défossez, and Eugene Kharitonov. <br>
 **"Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"**<br>
+The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**) <br>
 [[Paper](https://arxiv.org/abs/2606.11167)] [[Models](https://huggingface.co/collections/kyutai/interactivity-alignment)] [[Blogpost & Demo](https://kyutai.org/blog/2026-06-10-interactivity)]
 
-**International Conferences (Refereed)**
 - <u>Atsumoto Ohashi</u>, Shinya Iizuka, Jingjing Jiang, and Ryuichiro Higashinaka. <br>
 **"Towards a Japanese Full-duplex Spoken Dialogue System"** <br>
 The 26th Interspeech Conference (**INTERSPEECH 2025**)<br>
