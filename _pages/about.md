@@ -40,44 +40,44 @@ Selected Publications
 **International Conferences (Refereed)**
 
 - <u>Atsumoto Ohashi</u>, Neil Zeghidour, Alexandre Défossez, and Eugene Kharitonov. <br>
-**"Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"**<br>
-The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2026**) <br>
+"Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"<br>
+*In Proc.* **EMNLP 2026**<br>
 [[Paper](https://arxiv.org/abs/2606.11167)] [[Models](https://huggingface.co/collections/kyutai/interactivity-alignment)] [[Blogpost & Demo](https://kyutai.org/blog/2026-06-10-interactivity)]
 
 - <u>Atsumoto Ohashi</u>, Shinya Iizuka, Jingjing Jiang, and Ryuichiro Higashinaka. <br>
-**"Towards a Japanese Full-duplex Spoken Dialogue System"** <br>
-The 26th Interspeech Conference (**INTERSPEECH 2025**)<br>
-[[Paper](https://arxiv.org/abs/2506.02979)] [[Website](https://nu-dialogue.github.io/j-moshi?lang=en)] [[Code](https://github.com/nu-dialogue/moshi-finetune)]
+"Towards a Japanese Full-duplex Spoken Dialogue System" <br>
+*In Proc.* **INTERSPEECH 2025**<br>
+[[Paper](https://arxiv.org/abs/2506.02979)] [[Demo](https://nu-dialogue.github.io/j-moshi?lang=en)] [[Code](https://github.com/nu-dialogue/moshi-finetune)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
-**"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems"** <br>
-The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**) <br>
+"Universal Post-Processing Networks for Joint Optimization of Modules in Task-Oriented Dialogue Systems" <br>
+*In Proc.* **AAAI 2025**<br>
 [[Paper](https://arxiv.org/abs/2502.00747)] [[Code](https://github.com/nu-dialogue/UniPPN)]
 
 - <u>Atsumoto Ohashi</u>, Ukyo Honda, Tetsuro Morimura, and Yuu Jinnai. <br>
-**"On the True Distribution Approximation of Minimum Bayes-Risk Decoding"** <br>
-The 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2024**) <br>
+"On the True Distribution Approximation of Minimum Bayes-Risk Decoding" <br>
+*In Proc.* **NAACL 2024**<br>
 [[Paper](https://arxiv.org/abs/2404.00752)] [[Code](https://github.com/CyberAgentAILab/mbr-anomaly)]
 
 - <u>Atsumoto Ohashi</u>\*, Ryu Hirai\*, Shinya Iizuka, and Ryuichiro Higashinaka. <br>
-**"JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset"** <br>
-The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**) <br>
+"JMultiWOZ: A Large-Scale Japanese Multi-Domain Task-Oriented Dialogue Dataset" <br>
+*In Proc.* **LREC-COLING 2024**<br>
 [[Paper](https://arxiv.org/abs/2403.17319)] [[Code](https://github.com/nu-dialogue/jmultiwoz)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
-**"Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks"** <br>
-The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**) <br>
+"Enhancing Task-oriented Dialogue Systems with Generative Post-processing Networks" <br>
+*In Proc.* **EMNLP 2023**<br>
 [[Paper](https://aclanthology.org/2023.emnlp-main.231/)] [[Code](https://github.com/nu-dialogue/GenPPN)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
-**"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning"** <br>
-The 29th International Conference on Computational Linguistics (**COLING 2022**) <br>
-[[Paper](https://aclanthology.org/2022.coling-1.19/)] [[Code](https://github.com/nu-dialogue/antor)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/28/coling2022で発表を行いました/)]
+"Adaptive Natural Language Generation for Task-oriented Dialogue via Reinforcement Learning" <br>
+*In Proc.* **COLING 2022**<br>
+[[Paper](https://aclanthology.org/2022.coling-1.19/)] [[Code](https://github.com/nu-dialogue/antor)]
 
 - <u>Atsumoto Ohashi</u> and Ryuichiro Higashinaka. <br>
-**"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning"** <br>
-The 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (**SIGDIAL 2022**) <br>
-[[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)] [[Blog (in Japanese)](https://www.ds.is.i.nagoya-u.ac.jp/2022/10/05/yrrsds2022とsigdial2022で発表を行いました/)]
+"Post-processing Networks: A Method for Optimizing Pipeline Task-oriented Dialogue Systems using Reinforcement Learning" <br>
+*In Proc.* **SIGDIAL 2022**<br>
+[[Paper](https://aclanthology.org/2022.sigdial-1.1/)] [[Code](https://github.com/nu-dialogue/post-processing-networks)]
 
 
 Education
